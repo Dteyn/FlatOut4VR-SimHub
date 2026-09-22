@@ -21,7 +21,7 @@ This repo contains a `.simdef` for FlatOut 4 VR, along with a small extractor ap
 ## What you need
 
 - Windows 10 or Windows 11
-- [FlatOut 4: Total Insanity VR](https://store.steampowered.com/app/3844750/FlatOut_4_Total_Insanity_VR/) **(version 1.87 - May 14 2026 release supported)**
+- [FlatOut 4: Total Insanity VR](https://store.steampowered.com/app/3844750/FlatOut_4_Total_Insanity_VR/) **(version 1.87 - May 14 2026 release supported)** - v1.92-develop branch should also work
 - [SimHub](https://www.simhubdash.com/) version 9.11.5 or later
 
 ## Installation
