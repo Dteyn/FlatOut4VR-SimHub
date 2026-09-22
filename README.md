@@ -109,3 +109,5 @@ This project is released under the [MIT License](LICENSE).
 ## Support the Developer
 
 If you found this project useful, you can buy me a coffee here: https://ko-fi.co/Dteyn
+
+You are visitor: ![Page views](https://dteyn-rad-page.netlify.app/.netlify/functions/pageviews?repo=FlatOut4VR-SimHub)
