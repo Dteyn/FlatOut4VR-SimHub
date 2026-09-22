@@ -3,6 +3,8 @@
 </p>
 
 # FlatOut 4 VR SimHub
+![Latest release](https://img.shields.io/github/v/release/Dteyn/FlatOut4VR-SimHub?include_prereleases)
+![Downloads](https://img.shields.io/github/downloads/Dteyn/FlatOut4VR-SimHub/total)
 
 Bring **FlatOut 4: Total Insanity VR** telemetry into SimHub for dashboards, motion, haptics, and other SimHub devices.
 
