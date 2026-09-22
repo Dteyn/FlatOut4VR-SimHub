@@ -1,0 +1,41 @@
+FlatOut 4 VR SimHub Extractor
+==============================
+https://github.com/Dteyn/FlatOut4VR-SimHub
+
+Requirements
+------------
+- Windows 10 or Windows 11
+- SimHub 9.11.5 or later
+- FlatOut 4: Total Insanity VR (https://store.steampowered.com/app/3844750/FlatOut_4_Total_Insanity_VR/)
+
+Installation
+------------
+1. Close SimHub.
+
+2. Run `install.bat` from the extracted release. It copies the `FlatOut4VR` bundle into SimHub's definitions directory, preserves an existing `extractor.ini`, and writes the registration file automatically.
+
+3. For manual installation instead, copy the release's `FlatOut4VR` folder to `%LOCALAPPDATA%\SimHub\ExternalSims\Definitions\`. Then open `5059abb9-d53b-4e70-abb7-23ecfec6d4be.shlink` from the release folder in a text editor. Its default path is:
+
+   C:\Users\YOUR_USERNAME_HERE\AppData\Local\SimHub\ExternalSims\Definitions\FlatOut4VR\FlatOut4VR.simdef
+
+   Replace `YOUR_USERNAME_HERE` with your Windows account name, save it, then copy the edited `.shlink` to:
+
+   %LOCALAPPDATA%\SimHub\ExternalSims\Registrations\
+
+   Create the `Registrations` folder if it does not exist. The `.shlink` filename must be `5059abb9-d53b-4e70-abb7-23ecfec6d4be.shlink`.
+
+4. Confirm `extractor.exe` and `extractor.ini` are beside `FlatOut4VR.simdef`, then start SimHub and activate FlatOut 4: Total Insanity VR. SimHub starts the extractor when needed.
+
+Most users will not need to change any settings. If you need to change ports or enable a debug log, edit `extractor.ini` beside the EXE while SimHub is stopped. Enable `DebugLogging=1` for additional logging if troubleshooting is needed.
+
+Uninstallation
+--------------
+Close SimHub, then remove:
+- `%LOCALAPPDATA%\SimHub\ExternalSims\Definitions\FlatOut4VR\` (entire folder and contents)
+- `%LOCALAPPDATA%\SimHub\ExternalSims\Registrations\5059abb9-d53b-4e70-abb7-23ecfec6d4be.shlink` (file only)
+
+Support
+-------
+For installation or telemetry issues, enable `DebugLogging=1`, reproduce the problem, and open an issue at:
+
+https://github.com/Dteyn/FlatOut4VR-SimHub/issues
