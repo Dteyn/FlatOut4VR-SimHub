@@ -6,9 +6,28 @@
 ![Latest release](https://img.shields.io/github/v/release/Dteyn/FlatOut4VR-SimHub?include_prereleases)
 ![Downloads](https://img.shields.io/github/downloads/Dteyn/FlatOut4VR-SimHub/total)
 
-Bring **FlatOut 4: Total Insanity VR** telemetry into SimHub for dashboards, motion, haptics, and other SimHub devices.
+Brings **FlatOut 4: Total Insanity VR** telemetry into SimHub for dashboards, motion, haptics, and other SimHub devices.
 
 This repo contains a `.simdef` for FlatOut 4 VR, along with a small extractor app to convert telemetry data to SimHub format.
+
+## Project Status
+
+The project is in early status currently, while it has been tested with the gear I own (see below), much more testing is needed.
+
+> [!WARNING]
+> **This profile has not been tested with a motion rig! Use at your own risk!**
+>
+> I do not own a motion rig, so am not able to test one. Feedback is needed - if you own a motion rig and test this, it would be great to get some feedback on if it works, or if it needs improvement. If there are issues, please open an Issue on the issues tab and I'll do my best to improve the software as needed.
+
+## Tested Equipment
+
+- **ShakeIt Wind** (using a [DIY SimHub Wind Simulator](https://youtu.be/bZDzh6DglOA))
+- **ShakeIt Motors** (using [DIY SimHub Rumble Feedback Pedals](https://youtu.be/7EAvur23FLk))
+- **[bHaptics](https://bhaptics.com) TactSuit and TactSleeves** (using the [bHaptics SimHub Plug-In](https://github.com/bhaptics/tact-simhub))
+
+These have been tested multiple times across many sessions and work great with my setup.
+
+I'll update this list as I get reports from more users on what is working well.
 
 ## Download
 
