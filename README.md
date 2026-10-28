@@ -1,5 +1,5 @@
 > [!NOTE]
-> # DEPRECTED - NO LONGER NECESSARY
+> # REPO ARCHIVED - NO LONGER NECESSARY
 > **As of release 1.0 (Oct 23 2026), FlatOut 4: Total Insanity VR now has built-in SimHub support.**
 > This repo has been archived as this tool is no longer necessary, but may serve as a reference for other projects.
 
