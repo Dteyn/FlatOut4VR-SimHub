@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="assets/flatout-4-vr-banner.jpg" alt="FlatOut 4: Total Insanity VR SimHub Extractor banner" width="460">
-</p>
+> [!NOTE]
+> # DEPRECTED - NO LONGER NECESSARY
+> **As of release 1.0 (Oct 23 2026), FlatOut 4: Total Insanity VR now has built-in SimHub support.**
+> This repo has been archived as this tool is no longer necessary, but may serve as a reference for other projects.
 
-# FlatOut 4 VR SimHub
-![Latest release](https://img.shields.io/github/v/release/Dteyn/FlatOut4VR-SimHub?include_prereleases)
-![Downloads](https://img.shields.io/github/downloads/Dteyn/FlatOut4VR-SimHub/total)
+## FlatOut 4 VR SimHub
 
 Brings **FlatOut 4: Total Insanity VR** telemetry into SimHub for dashboards, motion, haptics, and other SimHub devices.
 
